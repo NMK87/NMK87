@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Neha P</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt= "Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nmk87&label=Profile%20views&color=0e75b6&style=flat" alt="nmk87" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, SQL, AWS, HTML, CSS**
 
-- 📫 How to reach me **nehaprabhakar0801@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
